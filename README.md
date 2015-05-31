@@ -10,3 +10,4 @@
 * CLooG 0.18.1 (requires GMP 4.3.2 & ISL 0.12.2)
 * GCC 4.9 (requires all above)
 
+**Reminder: make sure the prerequisite library files are in the **LD_LIBRARY_PATH** environmental variable. 
